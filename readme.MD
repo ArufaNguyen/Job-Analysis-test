@@ -132,5 +132,5 @@ flowchart TD
 ```
 
 # https://github.com/ArufaNguyen/Job-Analysis-test
-### Assigment E-learning 2 Design and Implement a Smart Parking Management System (SPMS)
+### Assigment E-learning Finaly Áp dụng các kỹ thuật xử lý NLP, trực quan hoá dữ liệu. Tìm ra xu hướng nghành nghề CNTT, data. Làm việc theo nhóm.
 ## UTH 012012410014 - Ngôn ngữ python - Nhóm 9
