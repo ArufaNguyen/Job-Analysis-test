@@ -5,13 +5,13 @@ Dự án này nhằm phân tích dữ liệu tuyển dụng từ các file JSON,
 
 ### Các bước chính bao gồm:
 
-Tiền xử lý dữ liệu: loại bỏ stopwords, chuẩn hóa văn bản, tách token.
+**Tiền xử lý dữ liệu**: loại bỏ **stopwords**, chuẩn hóa văn bản, tách token.
 
-Lấy các từ khóa quan trọng dựa trên tần suất (Frequency) và TF-IDF.
+Lấy các **từ khóa quan trọng** dựa trên **tần suất (Frequency)** và **TF-IDF**.
 
-Tạo n-grams từ các từ khóa và lọc các n-grams không cần thiết.
+Tạo **n-grams** từ các từ khóa và lọc các **n-grams** không cần thiết.
 
-Xây dựng đồ thị NetworkX từ n-grams và trực quan hóa bằng Matplotlib.
+Xây dựng đồ thị **NetworkX** từ n-grams và trực quan hóa bằng **Matplotlib**.
 
 #### Cấu trúc thư mục
 ```
