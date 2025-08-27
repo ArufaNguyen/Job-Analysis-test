@@ -1,0 +1,1804 @@
+ít nhất
+năm
+kinh nghiệm
+phát triển
+phần mềm
+sử dụng
+có
+nắm vững
+kiến thức
+nền tảng
+về
+ví dụ
+rất
+cần
+các
+căn bản
+một số
+quan trọng
+ưu tiên
+hiểu biết
+thêm
+là
+lợi thế
+theo
+khả năng
+làm việc
+tự
+và
+theo nhóm
+yêu cầu
+kỹ năng
+thiết kế
+kiến trúc
+triển khai
+nền tảng số
+các sản phẩm
+dịch vụ số
+cho
+doanh nghiệp
+ngành
+tài chính
+ngân hàng
+sâu sắc
+thực tế
+với
+các nguyên lý
+mô hình
+như
+thiết kế
+object-oriented
+design
+ood
+soa
+microservice
+architecture
+msa
+event-driven
+architecture
+eda
+thành thạo
+ngôn ngữ lập trình
+java
+spring boot
+maven
+oauth
+openid connect
+saml
+restful api
+web socket
+cơ sở dữ liệu
+sql
+nosql
+công cụ
+cicd
+jenkins
+docker
+kubernetes
+tối thiểu
+các lĩnh vực
+liên quan
+microservice
+aws
+tiếng anh
+giao tiếp
+tốt
+trình độ
+học vấn
+education
+requirements
+bằng
+cử nhân
+cao hơn
+khoa học máy tính
+công nghệ thông tin
+hoặc
+các ngành
+liên quan
+các kỹ năng mềm
+soft skills
+nhiệt tình
+trách nhiệm
+với công việc
+tư duy chiến lược
+phân tích
+xây dựng
+quy trình
+sản phẩm
+công nghệ số
+phát hiện
+phòng ngừa
+rủi ro
+quy trình hoạt động
+lập kế hoạch
+quản lý thời gian
+hiệu quả
+độc lập
+nhóm
+giao tiếp
+khả năng lãnh đạo
+nhằm
+đáp ứng
+kế hoạch
+mở rộng
+kinh doanh
+allexceed
+việt nam
+đang
+nhu cầu
+tuyển dụng
+một số
+vị trí
+các tiêu chí
+cụ thể
+như sau
+tốt nghiệp
+đại học
+chuyên ngành
+web application
+desktop application
+khả năng
+lý giải
+nghiệp vụ
+quy cách
+hệ thống
+phân tích
+source code
+ý thức
+chất lượng
+sản phẩm
+tạo ra
+program
+hoạt động
+đúng
+yêu cầu
+dễ bảo trì
+sẵn lòng
+tìm hiểu
+làm việc
+các ngôn ngữ lập trình
+khác
+theo yêu cầu
+công việc
+cung cấp
+cv
+bằng tiếng anh
+hệ thống nghiệp vụ
+thị trường
+nhật
+là
+một điểm cộng
+đọc hiểu
+tiếng anh
+chuyên ngành
+biết thêm
+tiếng nhật
+cẩn thận
+năng động
+dưới áp lực cao
+trách nhiệm
+nhiệt huyết
+nghiên cứu
+nắm bắt
+nhanh chóng
+công nghệ
+kỹ thuật mới
+làm việc độc lập
+làm việc nhóm
+tốt
+có thể
+chủ động
+báo cáo
+thảo luận
+xác nhận
+chia sẻ
+các vấn đề
+công ty
+đánh giá cao
+các ứng viên
+ý muốn
+gắn bó lâu dài
+muốn
+phát triển nghề nghiệp
+bền vững
+từ
+đến
+ba
+tester
+bằng cấp
+tốt nghiệp
+đại học
+chuyên ngành
+cntt
+hệ thống thông tin
+tìm hiểu
+phân tích hệ thống
+thu thập
+thông tin
+mô tả
+lại
+sử dụng
+uml
+mô hình hoá
+uiux
+thiết kế sản phẩm
+viết
+các tài liệu
+nghiệp vụ
+sản phẩm
+dự án
+giao tiếp
+trình bày
+các vấn đề
+hiểu biết
+nghiệp vụ kế toán
+hoặc
+các dịch vụ
+thành thạo
+tiếng anh
+chuyên ngành
+nâng cao
+sql developer
+quản lý
+cơ sở dữ liệu
+microsoft excel
+word
+power point
+power bi
+agile
+scrum
+yêu cầu
+khả năng
+học
+đọc
+viết
+giao tiếp
+tiếng nhật
+n
+trở lên
+làm cầu nối
+người nhật
+hệ thống web
+tinh thần
+làm việc nhóm
+ưu tiên
+quản lý đội nhóm
+quản lý dự án
+công ty nhật
+giao tiếp tiếng anh
+tốt nghiệp
+đại học
+ngành cntt
+phát triển
+quản lý đội nhóm
+lập trình
+tương đương
+thành thạo
+ít nhất
+một
+ngôn ngữ lập trình
+phổ biến
+python
+javascript
+mysql
+mongodb
+hiểu biết
+quy trình
+phát triển phần mềm
+sdlc
+erp
+công cụ
+quản lý mã nguồn
+git
+github
+gitlab
+phân tích
+giải quyết vấn đề
+làm việc nhóm
+tốt
+ưu tiên
+ứng viên
+phần mềm giáo dục
+tốt nghiệp
+đại học
+chuyên ngành
+cntt
+kỹ thuật
+aptech
+khái niệm
+object oriented programming
+oop
+nguyên tắc
+thiết kế
+theo oop
+hiểu
+nguyên tắc
+thiết kế
+theo khung
+solid
+core java
+spring mvc
+spring boot
+reactive programming
+reactor
+rxjava
+framework
+testing
+unit test
+jmeter
+jmc
+tư duy
+viết code
+có thể
+kiểm thử
+testable code
+db
+mq
+oracle
+ms sql
+rabbitmq
+redis
+postgresql
+tư duy
+phương pháp
+agile
+thư viện
+framework
+cộng đồng
+apache
+kỹ năng
+nên có
+ưu tiên
+lập trình
+các ngôn ngữ
+khác
+go
+python
+docker
+kubernetes
+cicd
+devops
+framework
+quy trình
+bpm
+kỹ năng mềm
+chủ động
+nhiệt huyết
+trong công việc
+tìm hiểu
+giải quyết vấn đề
+coding
+trách nhiệm
+giữ code
+vệ sinh
+ham thích
+tài chính
+yêu cầu bắt buộc
+biết
+ngôn ngữ lập trình
+c
+tiếng nhật
+n
+trở lên
+ưu tiên
+ứng viên
+fresher
+sv
+năm
+matlab
+simulink
+xe
+bánh
+điều khiển
+quản lý pin
+điều khiển động cơ
+phần cứng
+hiểu
+tài liệu
+hướng dẫn
+mpu
+bộ vi xử lý
+cầu nối
+giữa
+việt nam
+nhật bản
+bộ điều khiển ô tô
+chức năng an toàn
+tạo hồ sơ
+thiết kế phần mềm
+thiết kế kiến trúc
+thiết kế chi tiết
+xem xét
+đánh giá
+kết quả
+lập trình
+tốt nghiệp
+đại học
+chuyên ngành
+khoa học máy tính
+các ngành
+liên quan
+tối thiểu
+ưu tiên
+đã từng
+làm việc
+hệ thống
+mes
+erp
+restful api
+bảo mật ứng dụng
+postgresql
+mysql
+thành thạo
+một hoặc nhiều
+ngôn ngữ lập trình
+java
+c
+python
+nền tảng
+phát triển erp
+phổ biến
+sap
+odoo
+oracle erp
+chuyên sâu
+cơ sở dữ liệu
+sql
+nosql
+tích hợp hệ thống
+quản lý dự án
+agile
+scrum
+giao tiếp
+lãnh đạo
+giải quyết vấn đề
+kiến trúc microservices
+tích hợp hệ thống
+bên ngoài
+mes
+crm
+cloud platforms
+aws
+gcp
+azure
+làm việc nhóm
+giải thích
+vấn đề kỹ thuật
+các thành viên
+không chuyên
+quản lý thời gian
+deadline
+chặt chẽ
+tư duy
+giải quyết vấn đề
+sáng tạo
+linh hoạt
+giới tính
+nam
+nữ
+tuổi
+dưới
+tuổi
+văn phòng
+làm việc
+nguyễn văn bá
+phường
+trường thọ
+tp
+thủ đức
+tp hcm
+trình độ
+tiếng nhật
+tương đương
+n
+thành thạo
+cả
+kỹ năng
+nghe
+nói
+đọc
+viết
+tiếng anh
+khoảng
+dịch thuật
+lĩnh vực it
+cntt
+xử lý thông tin
+nhận biết
+vấn đề
+nhanh
+đưa ra
+ý kiến
+cải thiện
+chất lượng
+công việc
+quản lý tốt
+năng động
+hoạt bát
+tinh thần trách nhiệm
+cao
+trong công việc
+ứng viên
+nộp cv
+tiếng nhật
+tiếng việt
+quy trình
+tuyển dụng
+sàng lọc cv
+bài thi
+dịch
+nhật
+việt
+việt
+nhật
+đọc hiểu
+cntt
+phỏng vấn
+bằng
+tiếng nhật
+tiếng việt
+trình độ học vấn
+tốt nghiệp
+đại học
+chính quy
+các ngành
+an toàn thông tin
+khoa học máy tính
+lĩnh vực
+liên quan
+kinh nghiệm
+tối thiểu
+lĩnh vực
+an toàn thông tin
+cntt
+chuyên môn
+phù hợp
+mô hình tấn công
+bảo mật
+mitre attck
+cyber kill chain
+cách thức
+phòng chống
+thực tế
+ít nhất
+một
+trong
+các nhóm công việc
+sau
+đánh giá
+kiểm thử bảo mật
+audit
+pentest
+owasp
+burp suite
+metasploit
+kali linux
+soc
+incident response
+siem
+splunk
+elk
+threat hunting
+malware analysis
+quản lý rủi ro
+tuân thủ
+grc
+iso
+nist
+gdpr
+pdpa
+lập trình
+python
+nodejs
+bash scripting
+phục vụ
+tự động hóa
+bảo mật
+hiểu biết
+csdl
+sql server
+mysql
+nosql
+kỹ năng
+yêu cầu khác
+phân tích
+xử lý sự cố
+tư duy logic
+tốt
+đọc hiểu
+tài liệu
+tiếng anh
+chuyên ngành
+ưu tiên
+kỹ năng
+giao tiếp
+bằng tiếng anh
+chứng chỉ
+bảo mật
+ceh
+oscp
+cissp
+cisa
+security
+bằng cấp
+tốt nghiệp
+cao đẳng
+chuyên ngành
+cntt
+tương đương
+trở lên
+theo yêu cầu
+năng lực chuyên môn
+năng lực lãnh đạo
+quy định
+trong
+khung năng lực
+của
+khối cntt
+trong từng
+thời kỳ
+kỹ năng phẩm chất
+đọc hiểu
+tài liệu
+giao tiếp
+bằng tiếng anh
+tinh thần trách nhiệm
+cao
+trong công việc
+kỹ năng giao tiếp
+làm việc độc lập
+hoặc
+làm việc theo nhóm
+giải quyết vấn đề
+ít nhất
+phát triển ứng dụng
+web
+mobile
+có thể
+html
+css
+javascript
+jquery
+figma
+spa
+vuejs
+vuex
+công cụ cộng tác
+git
+jira
+confluence
+hiểu
+sử dụng
+cicd
+giao tiếp
+tiếng anh
+mức trung bình
+toeic
+trên
+các chứng chỉ
+tương đương
+hoặc
+tự tin
+giao tiếp
+tiếng anh
+ưu tiên
+hiểu
+backend
+typescript
+uiux
+biểu đồ
+javascript
+echarts
+chartjs
+d3js
+vv
+tailwind
+mui
+oauth
+giao tiếp
+tiếng hàn
+java
+ứng dụng web
+spring
+spring boot
+fw
+api
+rest api
+thành thạo
+trong
+các ngôn ngữ
+db
+mysql
+mongodb
+oracle
+sql
+git
+jira
+confluence
+hiểu
+áp dụng
+cicd
+giao tiếp
+tiếng anh
+mức trung bình
+toeic
+trên
+các chứng chỉ
+tương đương
+hoặc
+tự tin
+giao tiếp
+tiếng anh
+ưu tiên
+kubernetes
+cloud
+aws
+gcp
+python
+go
+tối ưu hóa sql
+giao tiếp
+tiếng hàn
+yêu cầu kỹ thuật
+bắt buộc
+tối thiểu
+fullstack javascript
+medusajs
+shopify
+nền tảng
+tương đương
+thành thạo
+nodejs
+expressjs
+typescript
+công nghệ frontend
+nextjs
+tailwind css
+typescript
+hiểu biết sâu
+postgresql
+redis
+typeorm
+triển khai
+rest api
+elasticsearch
+meilisearch
+tối ưu
+api performance
+hệ thống caching
+redis
+queue management
+tích hợp thanh toán
+stripe
+paypal
+lợi thế
+ưu tiên
+nextjs
+react
+tích hợp
+medusa js
+devops
+docker
+cicd
+aws
+google cloud
+hệ thống ecommerce
+lớn
+yêu cầu chuyên môn
+viết mã sạch
+hiệu quả
+dễ bảo trì
+tuân thủ
+các phương pháp
+tiêu chuẩn
+lập trình
+tốt nhất
+dẫn dắt
+phát triển
+đội ngũ
+kỹ sư phần mềm
+bao gồm
+phân công công việc
+đánh giá hiệu suất
+hỗ trợ chuyên môn
+tham gia tích cực
+quá trình
+thiết kế kiến trúc hệ thống
+lựa chọn công nghệ
+phù hợp
+dự án
+duy trì
+cải tiến
+tài liệu kỹ thuật
+các hệ thống
+backend
+api
+đảm bảo
+sự dễ dàng
+bảo trì
+nâng cấp
+thực hiện
+kiểm tra
+phát hiện
+sửa lỗi
+hệ thống
+đảm bảo
+tính ổn định
+bảo mật
+sản phẩm
+các công việc khác
+theo phân công
+ban lãnh đạo
+yêu cầu năng lực
+tham gia
+quy trình
+phát triển agile
+bao gồm
+lập kế hoạch sprint
+họp hàng tuần
+đánh giá tổng kết
+tinh thần làm việc
+quyết liệt
+tốc độ
+trách nhiệm
+cầu tiến
+trong công việc
+kỹ năng
+làm việc
+giao tiếp
+hiệu quả
+các bên liên quan
+tư duy logic
+kỹ năng
+giải quyết vấn đề
+tự định hướng
+tính tự tổ chức
+cao
+làm việc độc lập
+làm việc theo nhóm
+tốt
+đọc hiểu
+các tài liệu chuyên môn
+bằng tiếng anh
+tự tìm hiểu
+áp dụng
+kỹ thuật
+công nghệ mới
+tốt nghiệp
+đại học
+các chuyên ngành
+về
+công nghệ thông tin
+dữ liệu
+chứng chỉ
+liên quan
+các chuyên ngành
+khoa học máy tính
+computer science
+kỹ sư phần mềm
+software engineering
+các ngành
+về
+khoa học dữ liệu
+data science
+quản lý hệ thống thông tin
+managing information systems
+mindset
+data-driven
+sự tỷ mẩn
+detail-oriented
+người xây dựng
+hạ tầng dữ liệu
+từ
+xây dựng
+luồng etl
+trên
+các hệ thống
+lưu trữ dữ liệu
+có cấu trúc
+relations databases
+thiết kế
+data marts
+datawarehouse
+data lake
+khởi tạo
+vận hành
+hạ tầng
+bi
+nắm rõ
+các vấn đề
+bảo mật
+phân quyền
+cho
+hạ tầng bi
+hệ thống dữ liệu
+có cấu trúc
+mssql
+postgresql
+mysql
+oracle
+nền tảng cloud
+aws
+google cloud
+azure
+thuần thục
+các ngôn ngữ
+python
+java
+sử dụng thành thạo
+bash script
+công cụ
+quản lý luồng etl
+chung
+airflow
+luigi
+công cụ tương tự
+công cụ
+stream dữ liệu
+thời gian thực
+kafka
+spark
+storm
+tốt nghiệp
+cao đẳng
+đại học
+chuyên ngành
+công nghệ thông tin
+nhiều hơn
+lợi thế
+trong xét chọn
+đọc
+viết
+tiếng anh
+về
+lĩnh vực
+công nghệ thông tin
+sử dụng được
+tiếng anh
+tại nơi làm việc
+xét chọn
+giao tiếp
+tương tác
+thân thiện
+hiệu quả
+trong công việc
+trình độ học vấn
+cử nhân
+chuyên ngành
+tiếng nhật
+công nghệ thông tin
+chuyên ngành
+liên quan
+kiến thức
+kinh nghiệm liên quan
+tiếng nhật
+tương đương
+n
+trở lên
+giao tiếp tốt
+kỹ thuật
+hiểu biết
+về công nghệ
+trao đổi
+khách hàng
+đội phát triển
+viết tài liệu dự án
+kiến thức cơ bản
+về technical
+chứng chỉ
+liên quan
+quản lý dự án
+từ
+vai trò
+brse
+pm
+hiểu biết
+về agile
+scrum
+dưới
+tuổi
+tốt nghiệp
+đại học
+chuyên ngành
+toán tin
+tương đương
+mô hình học máy
+decision trees
+linear regression
+ensemble
+random forest
+boosting tree
+kmeans
+svm
+pca
+học sâu
+mạng neural nhân tạo
+các kiểu mạng
+mlp
+cnn
+lstm
+rnn
+xác suất
+thống kê
+đại số tuyến tính
+giải tích
+lập trình
+cấu trúc dữ liệu
+giải thuật
+lý thuyết đồ thị
+cơ sở dữ liệu
+phân tích khám phá dữ liệu
+exploratory data analysis
+eda
+pytorch
+tensorflow
+thành thạo
+ngôn ngữ lập trình
+python
+r
+công cụ trực quan hóa dữ liệu
+đánh giá mô hình
+xử lý dữ liệu phân tán
+xử lý dữ liệu lớn
+hadoop
+spark
+tư duy tốt
+nghiên cứu
+đánh giá
+cập nhật
+công nghệ mới
+ưu tiên
+ứng viên
+các chứng chỉ
+tiếng anh quốc tế
+toeic
+ielts
+toefl
+dưới
+tuổi
+tốt nghiệp
+đại học
+chuyên ngành
+toán tin
+tương đương
+kiến thức
+hoặc
+kinh nghiệm
+lập trình backend
+dự án
+java
+nodejs
+spring
+springboot
+c
+net
+fw
+api
+thành thạo
+làm việc
+csdl
+postgresql
+oracle
+intelij idea
+vs code
+git
+cơ sở dữ liệu
+sql
+nosql
+oop
+rest
+thiết kế hệ thống
+web application
+triển khai hệ thống
+trên nền
+linux
+centos
+docker
+ưu tiên
+ứng viên
+các chứng chỉ
+tiếng anh quốc tế
+toeic
+ielts
+toefl
+tốt nghiệp
+cao đẳng
+trở lên
+các chuyên ngành
+cntt
+kỹ thuật phần mềm
+lĩnh vực
+liên quan
+tối thiểu
+tại vị trí
+frontend developer
+software engineer
+reactjs
+typescript
+html
+css
+thành thạo
+các công cụ thiết kế
+sketch
+figma
+photoshop
+jira
+github
+hiểu biết
+webpack
+redux
+flux
+ưu tiên
+ứng viên
+lĩnh vực
+ứng dụng giải trí
+ott
+streaming video
+triển khai
+tối ưu
+sdks
+api
+lợi thế
+kinh nghiệm
+phát triển ứng dụng
+tv
+samsung
+tizen tv
+lg
+webos
+kiến thức tốt
+về
+kỹ thuật lập trình
+các hệ quản trị cơ sở dữ liệu
+mongodb
+elasticsearch
+column-based databases
+hiểu biết
+các công cụ
+google analytics
+webmaster tool
+pagespeed
+seo onpage
+facebook audience
+google admob
+google adsense
+google ad manager
+adnetwork
+yêu cầu cơ bản
+năm kinh nghiệm
+trở lên
+kiến thức
+đam mê
+lập trình ứng dụng web
+với
+ngôn ngữ java
+javascript
+jquery
+postgresql
+mysql
+các frameworks
+spring
+struts
+seasar
+hibernate
+automation test
+jmeter
+junit
+selenium
+devops
+git
+github
+jenkins
+docker
+tạo
+trình bày
+tài liệu kĩ thuật
+dễ hiểu
+chia sẻ
+kiến thức
+với đồng nghiệp
+research
+giải quyết
+các vấn đề
+về kĩ thuật
+ưu tiên
+đọc hiểu
+tài liệu
+bằng tiếng anh
+tốt
+đọc hiểu
+phân tích
+yêu cầu nghiệp vụ
+từ phía khách hàng
+phát hiện
+giải quyết vấn đề
+tốt
+giao tiếp tốt
+hiểu
+quy trình
+phong cách làm việc
+tại công ty nhật
+lợi thế
+lưu ý
+không tuyển
+ứng viên nước ngoài
+tốt nghiệp
+đại học
+chính quy
+loại khá
+trở lên
+khoa học máy tính
+toán
+tin
+điện tử viễn thông
+các chuyên ngành kỹ thuật
+khác
+liên quan
+ít nhất
+backend development
+một trong các
+ngôn ngữ
+rust
+c
+c++
+golang
+python
+xây dựng tool
+thu thập
+phân tích dữ liệu
+trẻ trung
+năng động
+sáng tạo
+không ngại
+dấn thân
+vào
+những lĩnh vực mới
+nice to have
+restful api
+graphql
+điểm cộng
+blockchain
+đã từng
+tham gia
+dự án blockchain
+bằng cấp
+chứng chỉ
+tốt nghiệp
+đại học
+các chuyên ngành
+về
+công nghệ thông tin
+tiếng anh
+b
+hoặc
+tương đương
+giao tiếp tốt
+kiến thức
+kinh nghiệm chuyên môn
+hệ điều hành
+windows
+linux
+unix
+mạng
+các hệ thống
+an ninh mạng
+các hệ thống
+liên quan
+an toàn thông tin
+các kỹ thuật
+bảo mật hệ thống
+các kỹ thuật
+khai thác
+tấn công
+chống tấn công
+nhận diễn
+các kiểu tấn công
+cách phòng chống
+giám sát
+phân tích mã độc
+phân tích sự kiện
+xử lý sự cố
+an toàn thông tin
+ưu tiên
+các chứng chỉ
+về an toàn thông tin
+oscp
+chfi
+ctia
+java core
+các framework java
+ee
+spring
+hibernate
+một số
+design pattern
+thông dụng
+tư duy
+về
+thiết kế hướng đối tượng
+cấu trúc dữ liệu
+giải thuật
+lập trình hướng đối tượng
+sql
+plsql
+các hệ quản trị cơ sở dữ liệu
+oracle
+mysql
+nosql
+tối ưu csdl
+ưu tiên
+hiểu biết
+về nghiệp vụ tài chính
+banking
+microservices
+ham học hỏi
+tìm tòi
+sáng tạo
+cái mới
+ưu tiên
+các ứng viên
+đã từng
+triển khai sản phẩm
+lên aws
+sử dụng
+số
+aws products
+appsync
+batch
+lambda
+emr
+lake formation
+glue
+fargate
+api gateway
+dynamodb
+vài
+aws components
+cho
+security
+api
+storage
+bitbucket
+jenkins
+aws codepipeline
+mô hình
+agile
+scrum
+yêu cầu
+bằng cấp
+đại học
+chính quy
+kinh tế
+tài chính
+ngân hàng
+ưu tiên
+các chứng chỉ nghề quốc tế
+về quản trị dữ liệu
+đọc hiểu
+tài liệu
+tiếng anh
+chuyên ngành
+kinh nghiệm
+quản trị độc lập
+hệ thống
+cơ sở dữ liệu
+tại
+ngành tài chính
+ngân hàng
+chuyên môn
+sử dụng thành thạo
+ngôn ngữ sql
+quản trị csdl oracle
+trên
+năm
+cài đặt
+oracle database software
+single instance
+rac
+trên hệ
+linux
+windows
+unix
+hiểu rõ
+cơ chế
+sao lưu
+phục hồi
+csdl oracle
+công cụ
+rman
+kiến thức thêm
+về
+các hệ quản trị csdl
+sql server
+mysql
+cấu hình
+đồng bộ dữ liệu
+dataguard oracle
+sử dụng
+sql plus
+broker
+lưu trữ
+asm
+disk group
+database
+tạo user
+phân quyền
+trên
+đối tượng
+table
+view
+procedure
+quản lý
+database oracle
+các
+datafile
+tablespace
+partition table
+range
+hash
+list
+indexs
+turning hệ thống
+tham số
+os
+database
+report
+các câu query
+chạy chậm
+awr
+asr
+oracle golden gate
+tốt nghiệp
+đại học
+các chuyên ngành
+đào tạo
+toán tin
+điện tử viễn thông
+từ
+performance test
+automation test
+bắt buộc
+một trong các mảng
+api
+web
+mobile
+sử dụng thành thạo
+một trong các
+ngôn ngữ lập trình
+java
+javascript
+framework auto
+selenium
+serenity
+bdd
+công cụ
+kiểm thử hiệu năng
+jmeter
+k
+kiến trúc hệ thống
+kiến trúc hạ tầng
+các điểm checkpoint
+cho
+kiểm thử hiệu năng
+cicd pipeline
+công cụ
+jenkins
+gitlab
+ưu tiên
+mảng nghiệp vụ
+bank
+hoặc
+tổ chức tài chính
+lập trình
+lập trình công cụ test
+tiếng anh tốt
+có thể
+làm việc trực tiếp
+với
+các đối tác nước ngoài
+trung thực
+tin cậy
+cẩn trọng
+tốt nghiệp
+các trường đại học
+trong nước
+nước ngoài
+chuyên ngành đào tạo
+kinh tế
+tài chính
+ngân hàng
+tương đương
+ưu tiên
+các bạn
+chuẩn bị
+học xong
+mới ra trường
+có thể
+đi làm fulltime
+tốt nghiệp
+đại học
+các chuyên ngành
+khoa học máy tính
+điện tử viễn thông
+công nghệ phần mềm
+hệ thống thông tin
+tối thiểu
+tương đương
+tại vị trí tuyển dụng
+kiến thức
+hiểu biết
+về
+ngôn ngữ lập trình
+python
+c
+c++
+service
+microservice
+một trong các framework
+fastapi
+flask
+django
+tensorflow
+pytorch
+dgl
+pyg
+onnx
+api
+restful
+grpc
+lập trình an toàn
+đảm bảo
+tối ưu hiệu năng
+git
+git flow
+docker
+kubernetes
+kubeflow
+mlflow
+tritonserver
+tensorflow serving
+các dạng bài toán
+supervised learning
+reinforcement learning
+xử lý ảnh
+computer vision
+video
+âm thanh
+ngôn ngữ tự nhiên
+nlp
+cnn
+rnn
+transformer
+attention
+svm
+knn
+clustering
+gnn
+vv
+kỹ năng
+knowledge distiller
+model prune
+model quantization
+tốt nghiệp
+đại học
+các chuyên ngành
+khoa học máy tính
+toán tin
+điện tử viễn thông
+từ
+trở lên
+làm việc
+trong
+hoặc
+với
+ngân hàng
+hoặc
+và
+các tổ chức tín dụng
+tư vấn
+thiết kế
+xây dựng
+kiến trúc giải pháp
+tham gia
+phát triển phần mềm
+triển khai
+các giải pháp phần mềm
+ưu tiên
+ứng viên
+triển khai
+các giải pháp lớn
+end to end
+mobile banking
+internet banking
+core banking
+core card
+core ví
+payment
+bpm
+esb
+microservices
+crm
+big data
+risk
+treasury
+kiến thức
+về các mảng
+liên quan
+tại
+ngân hàng
+tổ chức tài chính
+về
+công nghệ thông tin
+chứng chỉ
+thiết kế kiến trúc tổng thể
+togaf
+kiến trúc cloud
+vị trí mở
+với
+các senior dev
+định hướng
+chuyển sang
+sa
+tốt nghiệp
+đại học
+các chuyên ngành
+khoa học máy tính
+toán tin
+điện tử viễn thông
+từ
+trở lên
+làm việc
+trong
+hoặc
+với
+ngân hàng
+hoặc
+và
+các tổ chức tín dụng
+tư vấn
+thiết kế
+xây dựng
+kiến trúc giải pháp
+tham gia
+phát triển phần mềm
+triển khai
+các giải pháp phần mềm
+ưu tiên
+ứng viên
+triển khai
+các giải pháp lớn
+end to end
+mobile banking
+internet banking
+core banking
+core card
+core ví
+payment
+bpm
+esb
+microservices
+crm
+big data
+risk
+treasury
+kiến thức
+về các mảng
+liên quan
+tại
+ngân hàng
+tổ chức tài chính
+về
+công nghệ thông tin
+chứng chỉ
+thiết kế kiến trúc tổng thể
+togaf
+kiến trúc cloud
+vị trí mở
+với
+các senior dev
+định hướng
+chuyển sang
+sa
+tốt nghiệp
+đại học
+các chuyên ngành
+khoa học máy tính
+toán tin
+điện tử viễn thông
+từ
+trở lên
+làm việc
+trong
+hoặc
+với
+ngân hàng
+hoặc
+và
+các tổ chức tín dụng
+tư vấn
+thiết kế
+xây dựng
+kiến trúc giải pháp
+tham gia
+phát triển phần mềm
+triển khai
+các giải pháp phần mềm
+ưu tiên
+ứng viên
+triển khai
+các giải pháp lớn
+end to end
+mobile banking
+internet banking
+core banking
+core card
+core ví
+payment
+bpm
+esb
+microservices
+crm
+big data
+risk
+treasury
+kiến thức
+về các mảng
+liên quan
+tại
+ngân hàng
+tổ chức tài chính
+về
+công nghệ thông tin
+chứng chỉ
+thiết kế kiến trúc tổng thể
+togaf
+kiến trúc cloud
+vị trí mở
+với
+các senior dev
+định hướng
+chuyển sang
+sa
+tốt nghiệp
+đại học
+các chuyên ngành
+khoa học máy tính
+toán tin
+điện tử viễn thông
+từ
+trở lên
+làm việc
+trong
+hoặc
+với
+ngân hàng
+hoặc
+và
+các tổ chức tín dụng
+tư vấn
+thiết kế
+xây dựng
+kiến trúc giải pháp
+tham gia
+phát triển phần mềm
+triển khai
+các giải pháp phần mềm
+ưu tiên
+ứng viên
+triển khai
+các giải pháp lớn
+end to end
+mobile banking
+internet banking
+core banking
+core card
+core ví
+payment
+bpm
+esb
+microservices
+crm
+big data
+risk
+treasury
+kiến thức

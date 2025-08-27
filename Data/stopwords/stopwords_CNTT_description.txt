@@ -1,0 +1,349 @@
+agile
+analyst
+android
+api
+app
+architect
+ba
+backend
+ban
+bhnn
+bhtn
+bhtnld
+bhxh
+brse
+bug
+bài
+báo
+báo cáo
+bản
+bảo hiểm
+bảo hiểm xã hội
+bảo hiểm y tế
+bảo trì
+bảy
+bằng cấp
+bệnh tật
+bốn
+bởi
+ca làm
+cao
+chi nhánh
+chiến lược
+cho
+chuyên môn
+chuyên viên
+chuyển giao
+chín
+chính thức
+chưa
+chả
+chất lượng
+chậm
+chẳng
+chỗ
+chức năng
+chứng chỉ
+cloud
+coach
+code
+comtor
+conference
+ctv
+các
+cáo
+có
+công
+công nghệ
+công ty
+công việc
+công đoạn
+cùng
+cũ
+cạn
+cải
+cấp
+cần
+cập nhật
+cắt giảm
+cố định
+cộng tác viên
+của
+data
+database
+designer
+developer
+devops
+director
+do
+du lịch
+dài
+dưới
+dịch vụ
+dự án
+end user
+engineer
+event
+fix
+fresher
+frontend
+fullstack
+giai đoạn
+giám sát
+giám đốc
+gián tiếp
+giây
+giải pháp
+giờ
+giờ giấc
+hai
+hiếm
+hiệu quả
+hiệu suất
+hoặc
+hybrid
+hướng dẫn
+hẹp
+hệ
+hệ thống
+học việc
+họp
+hồ sơ
+hỗ trợ
+hội nghị
+hội thảo
+hợp tác
+hợp đồng
+intern
+ios
+junior
+khai thác
+khi
+khác
+khách hàng
+khám sức khỏe
+khóa học
+không
+kia
+kinh nghiệm
+kiểm soát
+kiểm tra
+kê
+kìa
+kế hoạch
+kết nối
+kỹ năng
+kỹ sư
+kỹ thuật
+lead
+linh hoạt
+liên
+luôn
+là
+làm
+lãnh đạo
+lên
+lúc
+lương
+lương hưu
+lường
+lạ
+lập trình
+lớn
+manager
+meeting
+mentee
+mentor
+mobile
+mà
+mười
+một
+mới
+mở rộng
+mục tiêu
+network
+nghiên cứu
+nghiệm thu
+nghiệp vụ
+nghỉ dưỡng
+nghỉ hè
+nghỉ hưu
+nghỉ lễ
+nghỉ mát
+nghỉ phép
+nghỉ tết
+nghỉ việc
+nghỉ ốm
+ngoài
+ngoại ngữ
+nguyên nhân
+ngày
+người
+người dùng
+người sử dụng
+ngắn
+nhanh
+nhiều
+nhà cung cấp
+nhân viên
+nhóm
+như
+nhẹ
+nhỏ
+này
+nâng
+nâng cao
+nên
+năm
+nơi
+nặng
+nếu
+nọ
+offline
+online
+ot
+overtime
+phát sinh
+phát triển
+phân
+phòng
+phó
+phúc lợi
+phút
+phương án
+phải
+phần mềm
+phỏng vấn
+phối hợp
+pm
+po
+qa
+qc
+quen
+quy trình
+quy định
+quản lý
+ra
+remote
+rộng
+rủi ro
+sa thải
+sai
+sau
+scrum
+seminar
+senior
+server
+specialist
+sáu
+sâu
+sản phẩm
+sẽ
+sử dụng
+sự cố
+sự kiện
+tai nạn
+team
+teambuilding
+test
+tester
+thai sản
+thay đổi
+theo
+theo dõi
+thiết kế
+thành viên
+tháng
+thâm niên
+thì
+thôi việc
+thường
+thưởng
+thảo luận
+thấp
+thống
+thời gian
+thử việc
+thực hiện
+thực tập sinh
+tiêu chuẩn
+tiến
+tiến độ
+tiếng anh
+tiếng hàn
+tiếng nhật
+tiếng trung
+training
+trao đổi
+triển khai
+triển lãm
+trong
+trung tâm
+trên
+trình độ
+trước
+trưởng
+trợ cấp
+trực tiếp
+tuyển dụng
+ty
+tài liệu
+tám
+tích
+tích hợp
+tăng ca
+tương tác
+tại
+tập huấn
+tối ưu
+tốt
+từ
+ui
+ux
+việc
+và
+vào
+văn phòng
+vấn đề
+vận hành
+về
+với
+web
+website
+wfh
+wfo
+work from home
+work from office
+workshop
+xuất
+xây dựng
+xấu
+yêu cầu
+à
+ít
+ô
+ôi
+đang
+điều chỉnh
+đo
+đào tạo
+đánh giá
+đây
+đã
+đó
+đúng
+được
+đảm bảo
+đẹp
+đến
+đề
+để
+đối tác
+đồng bộ
+đội nhóm
+ơ
+ốm đau
+ở
+ứng dụng
+ừ
+ừm
